@@ -16,3 +16,6 @@
 ## إعرض كامل الجدول ببياناتها باستخدام Select Function
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c98990eb-b265-470b-998e-f2419de50e0a" />
 
+## إعرض الاسم والسعر فقط من الجدول
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/829bf4c6-e86e-4dd8-8091-aa7a06c37b78" />
+
