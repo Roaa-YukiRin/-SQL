@@ -6,4 +6,7 @@
 ##  نعمل جدول تسوق  ونسميه SHOOP يقضل إذا كنت بتكب فانكشين أكتب كابيتال وإذا كان إسم أكتبه سمول 
 ![bandicam 2025-09-18 18-45-17-839](https://github.com/user-attachments/assets/697ea986-5304-427d-8d24-5f30eafd5b71)
 
+![bandicam 2025-09-18 19-42-06-220](https://github.com/user-attachments/assets/289edebf-1a7d-437d-adfb-440449203b35)
 
+
+## نبدأ نضيف البياناتInsert Function  بكتابة العناوين اأولاوأضيف معلومات الصف لاتنسى ترتيب المعلومات في كل عامود 
