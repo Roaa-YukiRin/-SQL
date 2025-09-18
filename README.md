@@ -10,3 +10,9 @@
 
 
 ## نبدأ نضيف البياناتInsert Function  بكتابة العناوين اأولاوأضيف معلومات الصف لاتنسى ترتيب المعلومات في كل عامود 
+## ملاحظة لمن تعمل رون لازم تحدد الكود الي بتعمله رون ولا تعيد عمل رون للأكواد القديمة ولا يطلع أخطاء
+![bandicam 2025-09-18 20-21-53-875](https://github.com/user-attachments/assets/715990f2-978b-4c74-9984-b4703e56a517)
+
+## إعرض كامل الجدول ببياناتها باستخدام Select Function
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c98990eb-b265-470b-998e-f2419de50e0a" />
+
