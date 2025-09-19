@@ -19,3 +19,30 @@
 ## إعرض الاسم والسعر فقط من الجدول
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/829bf4c6-e86e-4dd8-8091-aa7a06c37b78" />
 
+## أضيف بيانات وأضيفها عشوائي وركز على السعر أضيف 3 بيانات إما أكثر من 50 أو أقل على كيفك واعرضها
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03c75d4e-1268-4425-aa30-61298aa8018b" />
+
+## استخدم فانفكشين WHERE ليعرض الجدول فقط أغراض أقل من 50 ريال 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b26b217-15e4-4cde-b8ae-c8006d3abc30" />
+
+## غير عنصر الشنط إلى حقائب في عامود tybe بفانفسكشن  UPDATE واعرضها
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5f27f2b-1883-4e49-833e-8b67361cad93" />
+
+## امسح من الجدول صف الحذاء بفان فيكشن DELET
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/80b93144-33c4-4426-8d74-5133b99cf10f" />
+
+## رتب صفوف id باستخدام فانفيكشن ORDER BY والسبب لأننا قومنا بإنشاء عمود كـ SERIAL PRIMARY KEY، فإن قاعدة البيانات تقوم بإنشاء عداد داخلي (Sequence). هذا العداد يزيد تلقائيًا في كل مرة تقوم فيها بإضافة صف جديد.
+
+## عندما تضيف صفاً جديداً، يمنحه العداد الرقم التالي (مثلاً 1، ثم 2، ثم 3...).
+
+## إذا قمت بحذف صف (مثلاً الصف رقم 2)، فإن العداد لا يعود إلى الوراء.
+
+## عندما تضيف صفاً جديداً بعد ذلك، فإن العداد يستمر في العد من حيث توقف. فبعد حذف الصف 2، ستجد أن الصف الجديد يأخذ الرقم 4، ثم 5، وهكذا.
+
+## هذا السلوك طبيعي ومقصود في قواعد البيانات لعدة أسباب، أهمها تجنب مشاكل التكرار في الأرقام، وضمان أن كل رقم ID فريد تمامًا.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b3da6dc-bb1f-456b-ba1a-3fe407180b1d" />
+=================================================================================
+# ستجدون الحل بعنوان تطبيق اليوم الرابع في المعسكر في هذا القائمة
+
+https://youtube.com/playlist?list=PLLShL5t44_LnGPMldrkdPQZ9ODbB3aLcz&si=01NHGI7H7vWTTR7j
